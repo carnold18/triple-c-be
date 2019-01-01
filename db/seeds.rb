@@ -23,6 +23,18 @@ allUsers = {
             email_address:"alex@example.com",
             zip_code:"75219"
         },
+        {
+            username:"janett123",
+            password:"example",
+            email_address:"janett@example.com",
+            zip_code:"76119"
+        },
+        {
+            username:"doug123",
+            password:"example",
+            email_address:"doug@example.com",
+            zip_code:"76119"
+        },
     ]
 }
 
@@ -51,6 +63,22 @@ allCities = {
             city_name: "DALLAS"
             state_abbrev: "TX"
             user_id: 1
+        },
+        {
+            residential: true
+            commercial: false
+            zip_code: 76119
+            city_name: "FORT WORTH"
+            state_abbrev: "TX"
+            user_id: 3
+        },
+        {
+            residential: true
+            commercial: false
+            zip_code: 76119
+            city_name: "FORT WORTH"
+            state_abbrev: "TX"
+            user_id: 4
         },
     ]
 }
