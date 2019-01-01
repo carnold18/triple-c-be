@@ -54,3 +54,11 @@ allCities = {
         },
     ]
 }
+
+allUsers[:users].each do |user|
+    User.create(user)
+end
+
+allCities[:cities].each do |city|
+    City.create(city)
+end
