@@ -41,43 +41,43 @@ allUsers = {
 allCities = {
     "cities": [
         {
-            residential: true
-            commercial: false
-            zip_code: 75216
-            city_name: "DALLAS"
-            state_abbrev: "TX"
+            residential: true,
+            commercial: false,
+            zip_code: 75216,
+            city_name: "DALLAS",
+            state_abbrev: "TX",
             user_id: 1
         },
         {
-            residential: true
-            commercial: false
-            zip_code: 75219
-            city_name: "DALLAS"
-            state_abbrev: "TX"
+            residential: true,
+            commercial: false,
+            zip_code: 75219,
+            city_name: "DALLAS",
+            state_abbrev: "TX",
             user_id: 2
         },
         {
-            residential: false
-            commercial: true
-            zip_code: 75216
-            city_name: "DALLAS"
-            state_abbrev: "TX"
+            residential: false,
+            commercial: true,
+            zip_code: 75216,
+            city_name: "DALLAS",
+            state_abbrev: "TX",
             user_id: 1
         },
         {
-            residential: true
-            commercial: false
-            zip_code: 76119
-            city_name: "FORT WORTH"
-            state_abbrev: "TX"
+            residential: true,
+            commercial: false,
+            zip_code: 76119,
+            city_name: "FORT WORTH",
+            state_abbrev: "TX",
             user_id: 3
         },
         {
-            residential: true
-            commercial: false
-            zip_code: 76119
-            city_name: "FORT WORTH"
-            state_abbrev: "TX"
+            residential: true,
+            commercial: false,
+            zip_code: 76119,
+            city_name: "FORT WORTH",
+            state_abbrev: "TX",
             user_id: 4
         },
     ]
